@@ -1,6 +1,6 @@
 
-![Clean Architecture Template Title]
 
+# Clean_Architecture 
 
 Key Features of the Application:
 Domain Layer: Houses core business logic and entities.
