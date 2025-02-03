@@ -24,7 +24,7 @@ namespace CleanArchitectureDemo.Controllers
         [HttpPost]
         public async Task<IActionResult> Create(CreateProductDto dto)
         {
-            // create
+            // createee
             await _productService.CreateAsync(dto);
             return Ok();
         }
